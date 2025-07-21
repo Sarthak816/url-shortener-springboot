@@ -1,4 +1,3 @@
-﻿# url-shortener-springboot
 # URL Shortener - Spring Boot
 
 A simple URL shortening service built with Java and Spring Boot.
