@@ -35,5 +35,5 @@ A simple URL shortening service built with Java and Spring Boot.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/url-shortener-springboot.git
+git clone https://github.com/Sarthak816/url-shortener-springboot.git
 cd url-shortener-springboot
